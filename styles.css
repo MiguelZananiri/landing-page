@@ -50,6 +50,20 @@ body {
     display: none;
 }
 
+.inicio{
+    background-color: blueviolet;
+    height: 100vh;
+}
+
+.footer{
+    background-color: #333;
+    height: 500px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
 @media (max-width:650px) {
     .nav > .nav-btn {
         display: inline-block;
